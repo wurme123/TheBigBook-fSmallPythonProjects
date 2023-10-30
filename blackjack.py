@@ -19,7 +19,7 @@ BACKSIDE = 'backside'
 def main():
     print('''Blackjack, by Al Sweigart al@inventwithpython.com
 
-    Rules:
+    Правила:
       Try to get as close to 21 without going over.
       Kings, Queens, and Jacks are worth 10 points.
       Aces are worth 1 or 11 points.
